@@ -1,4 +1,4 @@
-# Stock Ticker #
+# CLI Manipulation Tool #
 A project that demonstrates knowledge of C++, Linux, and CI/CD concepts
 
 ### Kickoff CI/CD Pipeline ###
